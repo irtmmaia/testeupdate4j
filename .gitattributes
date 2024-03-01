@@ -1,0 +1,9 @@
+*.properties  binary
+*.dtd binary
+*.xml binary
+*.css binary
+*.js binary
+*.jsp binary
+*.svg binary
+*.html binary
+*.cfg binary
