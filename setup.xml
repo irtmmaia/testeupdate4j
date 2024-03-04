@@ -8,6 +8,6 @@
     </properties>
     <files>
         <file uri="config.xml" path="/config.xml" size="31699" checksum="7a54c611"/>
-        <file uri="bootstrap.jar" size="2779409" checksum="8e189e16" classpath="true"/>
+        <file uri="bootstrap-0.0.1-SNAPSHOT.jar" size="2779409" checksum="8e189e16" classpath="true"/>
     </files>
 </configuration>
