@@ -4,6 +4,7 @@
 <configuration timestamp="2024-03-06T15:04:00.261324Z">
     <base uri="https://raw.githubusercontent.com/irtmmaia/testeupdate4j/main/" path="${user.dir}"/>
     <files>
+        <file path="src/main/resources/Certificado-0.1.txt" size="36" checksum="1d0d1f"/>
         <file path="libs/a24h-1.0.jar" size="28269" checksum="c091ec1" classpath="true"/>
         <file path="libs/aopalliance-repackaged-2.6.1.jar" size="27006" checksum="d505323" classpath="true"/>
         <file path="libs/apns-0.2.3.jar" size="54144" checksum="3176c0e8" classpath="true"/>
