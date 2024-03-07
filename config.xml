@@ -4,6 +4,6 @@
 <configuration timestamp="2024-03-07T19:09:59.771818Z">
     <base path="${user.dir}"/>
     <files>
-        <file uri="https://gitlab.com/api/v4/projects/55626667/repository/files/struts.properties?ref=main" path="struts.properties" size="268" checksum="66d764c1"/>
+        <file uri="https://gitlab.com/api/v4/projects/55626667/repository/files/struts.properties/raw?ref=main" path="struts.properties" size="268" checksum="66d764c1"/>
     </files>
 </configuration>
