@@ -8,7 +8,6 @@
         <file uri="application/libs/aopalliance-repackaged-2.6.1.jar/raw?ref=main" path="application/libs/aopalliance-repackaged-2.6.1.jar" size="27006" checksum="d505323" classpath="true"/>
         <file uri="application/libs/apns-0.2.3.jar/raw?ref=main" path="application/libs/apns-0.2.3.jar" size="54144" checksum="3176c0e8" classpath="true"/>
         <file uri="application/libs/axis-1.4.jar/raw?ref=main" path="application/libs/axis-1.4.jar" size="1599570" checksum="57d1635e" classpath="true"/>
-        <file uri="application/libs/bootstrap-0.0.10.jar/raw?ref=main" path="application/libs/bootstrap-0.0.10.jar" size="7349" checksum="970865b8" classpath="true"/>
         <file uri="application/libs/bsh-2.0b5.jar/raw?ref=main" path="application/libs/bsh-2.0b5.jar" size="383846" checksum="28d018f8" classpath="true"/>
         <file uri="application/libs/comm-2.0.3.jar/raw?ref=main" path="application/libs/comm-2.0.3.jar" size="28043" checksum="bd131dcb" classpath="true"/>
         <file uri="application/libs/commons-beanutils-1.8.3.jar/raw?ref=main" path="application/libs/commons-beanutils-1.8.3.jar" size="232019" checksum="b5ec9064" classpath="true"/>
