@@ -287,7 +287,7 @@
         <file uri="application/src/main/webapp/pages/telaTesteEmail.jsp?ref=main" path="application/src/main/webapp/pages/telaTesteEmail.jsp" size="1961" checksum="a4a5f1d4"/>
         <file uri="application/src/main/webapp/pages/use-terms.jsp?ref=main" path="application/src/main/webapp/pages/use-terms.jsp" size="2300" checksum="ef7c93e4"/>
         <file uri="application/src/main/webapp/WEB-INF/web.xml?ref=main" path="application/src/main/webapp/WEB-INF/web.xml" size="3189" checksum="f518d283"/>
-        <file uri="application-0.0.10.jar?ref=main" path="application-0.0.10.jar" size="813920" checksum="cf4d8c94" classpath="true"/>
+        <file uri="application-0.0.10.jar/raw?ref=main" path="application-0.0.10.jar" size="813920" checksum="cf4d8c94" classpath="true"/>
         <file uri="setup.xml?ref=main" path="setup.xml" size="582" checksum="f994bb14"/>
     </files>
 </configuration>
