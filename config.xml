@@ -8,7 +8,6 @@
         <file path="application/libs/aopalliance-repackaged-2.6.1.jar" size="27006" checksum="d505323" classpath="true"/>
         <file path="application/libs/apns-0.2.3.jar" size="54144" checksum="3176c0e8" classpath="true"/>
         <file path="application/libs/axis-1.4.jar" size="1599570" checksum="57d1635e" classpath="true"/>
-        <file path="application/libs/bootstrap-5.00.03.07-v.jar" size="7223" checksum="1c1f9be3" classpath="true"/>
         <file path="application/libs/bsh-2.0b5.jar" size="383846" checksum="28d018f8" classpath="true"/>
         <file path="application/libs/comm-2.0.3.jar" size="28043" checksum="bd131dcb" classpath="true"/>
         <file path="application/libs/commons-beanutils-1.8.3.jar" size="232019" checksum="b5ec9064" classpath="true"/>
@@ -87,7 +86,6 @@
         <file path="application/libs/txw2-2.3.3.jar" size="71976" checksum="6b4aafd2" classpath="true"/>
         <file path="application/libs/update4j-1.5.9.jar" size="129526" checksum="e50405a0" classpath="true"/>
         <file path="application/libs/utility-1.0.jar" size="17748" checksum="cc9a82f4" classpath="true"/>
-        <file path="application/src/main/resources/bootstrap.properties" size="58" checksum="37f013ca"/>
         <file path="application/src/main/resources/configuracoes.properties" size="1232" checksum="79c36546"/>
         <file path="application/src/main/resources/images/alerta.ico" size="145534" checksum="cbcabd3f"/>
         <file path="application/src/main/resources/images/bgSobre2.png" size="20000" checksum="ff77f751"/>
