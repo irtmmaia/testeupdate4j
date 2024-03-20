@@ -287,7 +287,6 @@
         <file path="application/src/main/webapp/pages/telaTesteEmail.jsp" size="1961" checksum="a4a5f1d4"/>
         <file path="application/src/main/webapp/pages/use-terms.jsp" size="2300" checksum="ef7c93e4"/>
         <file path="application/src/main/webapp/WEB-INF/web.xml" size="3189" checksum="f518d283"/>
-        <file path="application-5.00.03.10.jar" size="813949" checksum="a503f841" classpath="true"/>
         <file path="application-5.00.03.11.jar" size="813955" checksum="19218931" classpath="true"/>
     </files>
 </configuration>
