@@ -4,6 +4,6 @@
 <configuration timestamp="2024-03-15T18:53:41.106267Z">
     <base uri="https://api.github.com/repos/irtmmaia/teste/contents/" path="${user.dir}"/>
     <files>
-        <file path="application-5.00.03.08.jar" size="813950" checksum="c24d6128" classpath="true"/>
+        <file path="application-5.00.03.09.jar" size="813955" checksum="a7641c2c" classpath="true"/>
     </files>
 </configuration>
