@@ -117,7 +117,6 @@
         <file path="src/main/resources/protocols-config.dtd" size="1755" checksum="71e3ab82"/>
         <file path="src/main/resources/webserver.properties" size="146" checksum="a9332dc9"/>
         <file path="src/main/resources/xml/.keystore" size="2195" checksum="e775c581"/>
-        <file path="src/main/resources/xml/keystore.jks" size="2144" checksum="59b0aeaf"/>
         <file path="src/main/resources/xml/lock.txt" size="0" checksum="1"/>
         <file path="src/main/webapp/css/bootstrap-datetimepicker.min.css" size="5256" checksum="2fcc9d5a"/>
         <file path="src/main/webapp/css/bootstrap-modal.css" size="4959" checksum="f0269360"/>
