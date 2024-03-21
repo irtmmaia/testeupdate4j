@@ -93,7 +93,6 @@
         <file path="libs/txw2-2.3.3.jar" size="71976" checksum="6b4aafd2" classpath="true"/>
         <file path="libs/update4j-1.5.9.jar" size="129526" checksum="e50405a0" classpath="true"/>
         <file path="libs/utility-1.0.jar" size="17748" checksum="cc9a82f4" classpath="true"/>
-        <file path="powerview.jar" size="816074" checksum="7156e799" classpath="true"/>
         <file path="src/main/resources/configuracoes.properties" size="1232" checksum="79c36546"/>
         <file path="src/main/resources/images/alerta.ico" size="145534" checksum="cbcabd3f"/>
         <file path="src/main/resources/images/bgSobre2.png" size="20000" checksum="ff77f751"/>
