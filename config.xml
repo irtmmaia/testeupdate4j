@@ -88,7 +88,7 @@
         <file path="libs/txw2-2.3.3.jar" size="71976" checksum="6b4aafd2" classpath="true"/>
         <file path="libs/update4j-1.5.9.jar" size="129526" checksum="e50405a0" classpath="true"/>
         <file path="libs/utility-1.0.jar" size="17748" checksum="cc9a82f4" classpath="true"/>
-        <file path="powerview-small.jar" size="389400" checksum="5436a14c" classpath="true"/>
+        <file path="powerview.jar" size="816601" checksum="6dc2dcec" classpath="true"/>
         <file path="src/main/resources/images/alerta.ico" size="145534" checksum="cbcabd3f"/>
         <file path="src/main/resources/images/bgSobre2.png" size="20000" checksum="ff77f751"/>
         <file path="src/main/resources/images/bgSobre3.png" size="20936" checksum="a8e0a15b"/>
